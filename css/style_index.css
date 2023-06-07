@@ -1,0 +1,55 @@
+body {
+	background-color: black;
+	color: white;
+}
+h2 {
+	text-align: center;
+}
+hr {
+	color: red;
+	size: 3px;
+}
+.space {
+	font-size: 4;
+	color: yellow; 
+}
+.red1 {
+	color: red;
+}
+.black1 {
+	color: black;
+}
+.obliqueRed {
+	font-style: oblique;
+	color: red;
+}
+.underline {
+	text-decoration: underline;
+}
+.green {
+	color: green;
+}
+.red2 {
+	text-align: center;
+	color: red;
+}
+.blue1 {
+	color: rgb(40, 98, 206);
+}
+.obliqueBlue {
+	color: blue;
+	font-style: oblique;
+}
+.right {
+	text-align: right;
+}
+.obliqueBold {
+	font-weight: bold;
+	font-style: oblique;
+}
+.center {
+	text-align: center;
+}
+.border {
+	border: 2px;
+}

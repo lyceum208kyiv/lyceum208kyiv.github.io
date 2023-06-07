@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+    color: white;
+}
+h1 {
+    font-weight: bold;
+    text-align: center;
+    color: yellowgreen;
+}
+.italic {
+    font-style: italic;
+}
+.cyan {
+    color: cyan;
+}
+.red {
+    color: lightcoral;
+}
+.green {
+    color: lightgreen;
+}
+.space {
+	font-size: 4;
+	color: yellow; 
+}

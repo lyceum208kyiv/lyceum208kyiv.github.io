@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    color: white;
+}
+h1 {
+    color: yellow;
+    text-align: center;
+}
+.cyan {
+    color: cyan;
+    font-style: oblique;
+}
+.green {
+    color: lightgreen;
+}
+.red {
+    color: lightcoral;
+}
+.space {
+	font-size: 4;
+	color: yellow; 
+}

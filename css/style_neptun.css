@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    color: white;
+}
+h1 {
+    color: yellow;
+    text-align: center;
+}
+.italic {
+    font-style: italic;
+}
+.cyan {
+    color: cyan;
+    font-weight: bold;
+}
+.red {
+    color: lightcoral;
+}
+.green {
+    color: lightgreen;
+    font-weight: bold;
+    font-style: oblique;
+}
+.space {
+	font-size: 4;
+	color: yellow; 
+}

@@ -1,0 +1,12 @@
+body {
+	background-color: black;
+	color: yellow;
+}
+
+.start {
+	text-align: center;
+}
+.space {
+	font-size: 4;
+	color: yellow; 
+}

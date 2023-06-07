@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+    color: white;
+}
+.green1 {
+    text-align: center;
+    color: lightgreen;
+}
+.quotate {
+    font-style: oblique;
+}
+.grey1 {
+    color: grey;
+}
+.oblique_red {
+    color: red;
+    font-style: oblique;
+}
+.underline {
+    text-decoration: underline;
+}
+.yellow1 {
+    color: rgb(255, 123, 0);
+    text-align: center;
+    font-size: large;
+}
+.yellow_bold {
+    font-weight: bold;
+    font-style:italic;
+}
+.greenitalic {
+    color: lightgreen;
+    font-style: italic;
+    text-align: center;
+    font-size: large;
+}
+.space {
+	font-size: 4;
+	color: yellow; 
+}
